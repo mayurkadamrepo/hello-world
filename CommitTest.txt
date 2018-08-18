@@ -1,1 +1,3 @@
-"test content for git tutorial" 
+"test content for git tutorial"
+
+"adding another changes with another repo from local in same branch" 
