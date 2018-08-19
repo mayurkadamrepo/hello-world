@@ -1,9 +1,7 @@
 "test content for git tutorial"
 
 "adding another changes with another repo from local in same branch" 
-<<<<<<< HEAD
+
 "check modification without pull"
-=======
 
 "Now adding other text to check for without pull effect"
->>>>>>> b65635cec0f063f36ae5d5afd09b4b607f95b505
